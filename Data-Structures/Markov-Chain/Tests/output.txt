@@ -1,0 +1,192 @@
+Loaded hansel_and_gretel.txt with window = 3 and parse method = ignore_punctuation
+
+could (5)
+could be (1)
+could get (1)
+could no (1)
+could not (2)
+
+could (5)
+could be (1)
+could get (1)
+could no (1)
+could not (2)
+
+could (5)
+could be (1)
+could get (1)
+could no (1)
+could not (2)
+
+could (5)
+could be (1)
+could get (1)
+could no (1)
+could not (2)
+
+could (5)
+could be (1)
+could get (1)
+could no (1)
+could not (2)
+
+not (26)
+not awake (1)
+not be (1)
+not been (2)
+not come (1)
+not cry (1)
+not distress (1)
+not do (1)
+not eat (1)
+not escape (1)
+not find (3)
+not forget (1)
+not forsake (1)
+not get (2)
+not help (1)
+not know (1)
+not known (1)
+not long (1)
+not see (1)
+not the (1)
+not wait (1)
+not your (2)
+
+not (26)
+not awake (1)
+not be (1)
+not been (2)
+not come (1)
+not cry (1)
+not distress (1)
+not do (1)
+not eat (1)
+not escape (1)
+not find (3)
+not forget (1)
+not forsake (1)
+not get (2)
+not help (1)
+not know (1)
+not known (1)
+not long (1)
+not see (1)
+not the (1)
+not wait (1)
+not your (2)
+
+not (26)
+not awake (1)
+not be (1)
+not been (2)
+not come (1)
+not cry (1)
+not distress (1)
+not do (1)
+not eat (1)
+not escape (1)
+not find (3)
+not forget (1)
+not forsake (1)
+not get (2)
+not help (1)
+not know (1)
+not known (1)
+not long (1)
+not see (1)
+not the (1)
+not wait (1)
+not your (2)
+
+not (26)
+not awake (1)
+not be (1)
+not been (2)
+not come (1)
+not cry (1)
+not distress (1)
+not do (1)
+not eat (1)
+not escape (1)
+not find (3)
+not forget (1)
+not forsake (1)
+not get (2)
+not help (1)
+not know (1)
+not known (1)
+not long (1)
+not see (1)
+not the (1)
+not wait (1)
+not your (2)
+
+get (10)
+get in (3)
+get nothing (1)
+get out (4)
+get up (2)
+
+out (19)
+out a (1)
+out again (1)
+out and (2)
+out but (1)
+out hansel (1)
+out into (1)
+out nevertheless (1)
+out of (7)
+out the (1)
+out to (1)
+out together (1)
+out your (1)
+
+could not find the forest
+
+could not find the forest and gretel began to the forest
+
+not find the forest and
+
+not find the forest and gretel began to the forest and
+
+could not cry gretel he 
+
+could not forget how the 
+
+could no other the other 
+
+could no bridge and i 
+
+could not know how the 
+
+could no ferry answered hansel we must die of the sun 
+
+could get in said hansel had to nothing to cry gretel 
+
+could be fat or three berries which grew on a poor 
+
+could be rid of one happy hour since they were so 
+
+could get in wait for children the stable and crept outside 
+
+not eat a bird from 
+
+not the hand carried him 
+
+not get in vain for 
+
+not be comforted dear children 
+
+not the brushwood together just 
+
+not get nothing that we are we should at any rate 
+
+not awake until they lay in said how i see the 
+
+not distress yourself i can eat some of his in peace 
+
+not forsake us and kiss each ate it they found no 
+
+not see no replied gretel that their eyes could not cry 
+
